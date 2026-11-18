@@ -1,0 +1,11 @@
+{
+  "version": "2.6.18",
+  "buildNumber": 2618,
+  "latestVersion": "2.6.18",
+  "updateAvailable": true,
+  "mandatory": true,
+  "releaseNotes": "تحديث شامل v2.6.18: إضافة ميزة حذف الحساب وكافة البيانات مع مهلة وأرشيف مشفر (AES-256) لمدة 10 أيام، عداد تنازلي لحظي مباشر، زر استرجاع فوري لجميع البيانات والحسابات، وزر حذف أبدي فوري بتحذيرات أمان مشددة، بالإضافة لتحسينات الاستقرار والأداء.",
+  "apkFilename": "Alkash.apk",
+  "downloadUrl": "https://github.com/AL-King4444/releases/raw/main/Alkash.apk",
+  "fileSize": 69454831
+}
