@@ -1,11 +1,11 @@
 {
-  "version": "2.6.23",
-  "buildNumber": 2623,
-  "latestVersion": "2.6.23",
+  "version": "2.6.24",
+  "buildNumber": 2624,
+  "latestVersion": "2.6.24",
   "updateAvailable": true,
   "mandatory": true,
-  "releaseNotes": "تحديث v2.6.23: ضبط ذكاء فحص الاحتيال بدقة 100% وإزالة الإنذارات الخاطئة، ومنع تكرار قراءة الرسائل بالكامل واستبدالها بالفحص التزايدي السريع، ومسح تلقائي لسجلات التنبيه الخاطئة.",
+  "releaseNotes": "تحديث v2.6.24: استعادة وتأكيد ظهور النافذة العائمة التفاعلية المنبثقة (Overlay Modal) فور رصد أي عملية كاش، مع دعم التنقل الشامل وفحص إذن الظهور فوق التطبيقات بالأندرويد.",
   "apkFilename": "Alkash.apk",
   "downloadUrl": "https://github.com/AL-King4444/releases/raw/main/Alkash.apk",
-  "fileSize": 69602287
+  "fileSize": 69766127
 }
