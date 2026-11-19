@@ -1,10 +1,10 @@
 {
-  "version": "2.6.20",
-  "buildNumber": 2620,
-  "latestVersion": "2.6.20",
+  "version": "2.6.21",
+  "buildNumber": 2621,
+  "latestVersion": "2.6.21",
   "updateAvailable": true,
   "mandatory": true,
-  "releaseNotes": "تحديث شامل v2.6.20: مسح وتفريغ كامل لبيانات SharedPreferences المحلية وقاعدة البيانات السحابية (صفحة بيضاء) عند الحذف أو التفريغ اليدوي مع حماية أمان الأرشيف المشفر.",
+  "releaseNotes": "تحديث v2.6.21: إصلاح دقة قراءة أرصدة فودافون كاش ومطابقة كافة صياغات الرسائل واستعلام الرصيد، وربط حركات التحويل الصادر بالمحفظة الأساسية مباشرة دون تجزئة الأرصدة، وتأمين مزامنة سوبا بيز السحابية.",
   "apkFilename": "Alkash.apk",
   "downloadUrl": "https://github.com/AL-King4444/releases/raw/main/Alkash.apk",
   "fileSize": 69536751
