@@ -1,11 +1,11 @@
 {
-  "version": "2.6.25",
-  "buildNumber": 2625,
-  "latestVersion": "2.6.25",
+  "version": "2.7.1",
+  "buildNumber": 2701,
+  "latestVersion": "2.7.1",
   "updateAvailable": true,
   "mandatory": false,
-  "releaseNotes": "تحديث Alkash Financial AI (v2.6.25): دمج محرك الذكاء الاصطناعي المالي في وضع الظل المعزول (Shadow Mode)، واجهة مختبر AI لتحليل رسائل Vodafone Cash وفحص التناقضات، مع فحص ذاتي 10/10 ومسح كامل للسجلات بنقرة واحدة.",
+  "releaseNotes": "تحديث Alkash 2.0 (v2.7.1): سحب شامل لكل الرسائل المالية التاريخية من بداية تشغيل الهاتف بدون قيود، استكشاف لحظي فائق السرعة للعمليات الجديدة مع شاشة الأوفرلي فوق كل التطبيقات، واجهة مبسّطة فائقة السرعة والسلاسة (120 FPS) مع إلغاء كل الأزرار والواجهات غير الضرورية.",
   "apkFilename": "Alkash.apk",
   "downloadUrl": "https://github.com/AL-King4444/releases/raw/main/Alkash.apk",
-  "fileSize": 69846535
+  "fileSize": 72284727
 }
