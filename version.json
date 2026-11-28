@@ -1,11 +1,11 @@
 {
-  "version": "2.7.1",
-  "buildNumber": 2701,
-  "latestVersion": "2.7.1",
+  "version": "2.7.2",
+  "buildNumber": 2702,
+  "latestVersion": "2.7.2",
   "updateAvailable": true,
   "mandatory": false,
-  "releaseNotes": "تحديث Alkash 2.0 (v2.7.1): سحب شامل لكل الرسائل المالية التاريخية من بداية تشغيل الهاتف بدون قيود، استكشاف لحظي فائق السرعة للعمليات الجديدة مع شاشة الأوفرلي فوق كل التطبيقات، واجهة مبسّطة فائقة السرعة والسلاسة (120 FPS) مع إلغاء كل الأزرار والواجهات غير الضرورية.",
+  "releaseNotes": "تحديث Alkash 2.0 (v2.7.2 - إطلاق فائق السرعة والسلاسة): حل جذري للبطء والتهنيج، تفعيل تقنية الحفظ المشفر المجدول (Debounced Flushing) لإنهاء تجميد المعالج، تسريع فحص الرسائل بأكثر من 20 ضعفاً، كاش ذكي للوحة التحكم (120 FPS)، ومزامنة ذكية خفيفة عند استئناف التطبيق.",
   "apkFilename": "Alkash.apk",
   "downloadUrl": "https://github.com/AL-King4444/releases/raw/main/Alkash.apk",
-  "fileSize": 72284727
+  "fileSize": 72219191
 }
